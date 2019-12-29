@@ -1,11 +1,23 @@
 # Cy4root Repository addon
 ## Current Version: Master
 
-Mirror addon
+MirrorV2 addon
 
-Chucky addon
+Chucky Addon
 
-Subtitles Anonymous
+Covenant Addon
+
+Uranus Addon
+
+Descent Addon
+
+Clowns Replica Addon
+
+SportDevil Addon
+
+SportOwa Addon
+
+Subtitles
 
 and more stuf..
 
