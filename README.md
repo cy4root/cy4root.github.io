@@ -7,11 +7,13 @@ MirrorV2 addon
 
 Chucky Addon
 
+Laplaza Addon
+
 Covenant Addon
 
 Uranus Addon
 
-Descent Addon
+Descent Addon (new)
 
 Clowns Replica Addon
 
