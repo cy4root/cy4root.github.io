@@ -19,7 +19,7 @@ Clowns Replica Addon
 
 SportDevil Addon
 
-SportOwa Addon
+Sportzig
 
 Subtitles
 
